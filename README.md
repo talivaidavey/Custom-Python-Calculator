@@ -12,3 +12,15 @@ Author - Davey Talivai: Design and develop a Digital Outcome
 
 ### Members of my development team
 - Davey Talivai
+
+# The design 
+* Colour
+  * The colours I have used are suitable for the age group
+  * The **website** I have used for this: [**w3schools**]https://www.w3schools.com/colors/colors_picker.asp 
+
+* Layout
+  * Here's a link to my design in **Miro**:
+  * This is the layout of the calculator in **Tkinter**.
+
+
+
